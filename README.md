@@ -8,7 +8,7 @@ Finally, I will show one not so great version of the circuit often seen online a
 
 
 ### Watch the YouTube video with the full explanation:  
-[![Watch the video](https://img.youtube.com/vi/P0ELV0oO3nA/0.jpg)](https://youtu.be/P0ELV0oO3nA)  
+[![Watch the video](https://img.youtube.com/vi/cQKEzo1-6vw/0.jpg)](https://youtu.be/cQKEzo1-6vw)  
 
 ## Schematic:  
 <img src="Schematic.jpg" width="50%">
