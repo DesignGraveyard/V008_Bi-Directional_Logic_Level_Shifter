@@ -1,4 +1,4 @@
-# Description
+# How does a Bi-Directional Logic Level Shifter work? 
 
 How does a Bi-Directional Logic Level Shifter work?  
 It's a clever circuit that links 3.3V and 5V signals using just one small MOSFET transistor and two resistors.  
