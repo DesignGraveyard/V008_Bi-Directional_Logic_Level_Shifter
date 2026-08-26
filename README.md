@@ -12,7 +12,7 @@ Finally, I will show one not so great version of the circuit often seen online a
 
 ## Schematic:  
 <img src="Schematic.jpg" width="50%">
-The recommended MOSFET type is a BSS138.
+Recommended MOSFET type: BSS138.
 
 
 
